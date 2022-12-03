@@ -10,8 +10,9 @@
 streamlit run streamlitapp.py
 ```
 #### Preview
-![Streamlit - Page 1](https://github.com/krishna-aditi/adm-assignment5/blob/main/report/screenshot_1.PNG)
-![Streamlit - Page 2](https://github.com/krishna-aditi/adm-assignment5/blob/main/report/screenshot_2.PNG)
+![Streamlit - Page 1](https://github.com/krishna-aditi/adm-assignment5/blob/main/report/screenshot_2.PNG)
+![Streamlit - Page 2](https://github.com/krishna-aditi/adm-assignment5/blob/main/report/screenshot_1.PNG)
+
 
 
 
