@@ -10,8 +10,8 @@
 streamlit run streamlitapp.py
 ```
 #### Preview
-![Streamlit - Page 1](report\screenshot-1.png)
-![Streamlit - Page 2](report\screenshot-2.png)
+![Streamlit - Page 1](report/screenshot-1.png)
+![Streamlit - Page 2](report/screenshot-2.png)
 
 
 
